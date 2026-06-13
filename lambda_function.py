@@ -17,7 +17,7 @@ def lambda_handler(event, context):
 
     # News in 3 languages
     english_news = [
-        "pune water problem",
+        "Pune Water problem",
         "India launches new AI innovation mission.",
         "Heavy rainfall alert issued in Maharashtra.",
         "Indian cricket team wins thrilling match."
